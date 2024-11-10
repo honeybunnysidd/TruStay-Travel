@@ -4,7 +4,12 @@
   <img src="Media/banner.png" width="100" height="auto">
 </div>
 
-TruStay: Book & Travel is a one-stop travel platform designed to make every aspect of your journey seamless and memorable. Combining ease of booking with personalized recommendations, TruStay allows travelers to find unique accommodations, explore local attractions, and plan entire itineraries effortlessly. With a community-driven focus, TruStay offers user reviews, travel blogs, and insider tips from local ambassadors, creating a dynamic space for travelers to connect and share experiences. The platform also emphasizes sustainability, highlighting eco-friendly stays and supporting local communities. Whether you're a solo adventurer, a family on vacation, or a digital nomad, TruStay curates experiences tailored to your style, turning every trip into an unforgettable journey.
+TruStay is a responsive, visually appealing website designed to showcase vacation rentals or hotel stays. The layout is built using HTML and CSS, focusing on a clean and modern design with interactive elements that enhance user experience.
+Responsive Design and Media Queries: TruStay uses media queries to ensure full responsiveness across devices. The layout adjusts seamlessly from desktops to tablets and smartphones. Fonts, images, and button sizes change dynamically to provide an optimal browsing experience on all screens.
+
+Styling and Theme: The color scheme is warm and inviting, with complementary fonts and subtle animations that make the website interactive and engaging. Each section has adequate padding and margins, providing a balanced and organized appearance.
+
+This layout gives TruStay a professional, attractive look, ideal for a rental or hospitality business aiming to attract modern users looking for a stylish and user-friendly experience.
 
 ## Technologies used :
   | HTML  | CSS  |
